@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup
 import sys
 import re
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+}
 
 def search_wikipedia(query):
     search_url = 'https://vi.wikipedia.org/w/api.php'
@@ -16,7 +19,7 @@ def search_wikipedia(query):
         'srlimit': 50  # You can change this number to get more or fewer search results
     }
     
-    response = requests.get(search_url, params=search_params)
+    response = requests.get(search_url, params=search_params, headers=headers)
     data = response.json()
     
     if data['query']['search']:
@@ -31,14 +34,15 @@ def get_wikipedia_page_url(title):
     return base_url + title.replace(" ", "_")
 
 def get_image_and_caption(page_url):
-    response = requests.get(page_url)
+    response = requests.get(page_url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
 
     images = []
-    for figure in soup.find_all('figure', class_=['mw-default-size','mw-halign-right']):
-        img = figure.find('img', src=True)
-        if img and img.get('src'):  # Ensure the img object exists and has a src attribute
-            image_url = 'https:' + img['src']
+    for figure in soup.find_all('figure', class_=['mw-default-size', 'mw-halign-right']):
+        img = figure.find('img', src=True, srcset=True)  # Get the srcset attribute
+        if img and img.get('srcset'):  # Ensure the img object exists and has a srcset attribute
+            # Split the srcset string into a list and get the last URL
+            image_url = 'https:' + img['srcset'].split(",")[-1].split()[0]
 
             caption = figure.find('figcaption')
             caption_text = " ".join(caption.stripped_strings) if caption else None
@@ -46,9 +50,10 @@ def get_image_and_caption(page_url):
             images.append({'url': image_url, 'caption': caption_text})
 
     for div in soup.find_all('div', class_=['trow']):
-        img = div.find('img', src=True)
-        if img and img.get('src'):  # Ensure the img object exists and has a src attribute
-            image_url = 'https:' + img['src']
+        img = div.find('img', src=True, srcset=True)  # Get the srcset attribute
+        if img and img.get('srcset'):  # Ensure the img object exists and has a srcset attribute
+            # Split the srcset string into a list and get the last URL
+            image_url = 'https:' + img['srcset'].split(",")[-1].split()[0]
 
             caption = div.find('div', class_='thumbcaption')
             caption_text = " ".join(caption.stripped_strings) if caption else None
@@ -57,11 +62,20 @@ def get_image_and_caption(page_url):
 
     return images
 
+def download_image(url, file_path, format='jpg', quality='original'):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'en-US,en;q=0.9',
+    }
 
+    params = {
+        'format': format,
+        'quality': quality
+    }
 
-
-def download_image(url, file_path):
-    response = requests.get(url)
+    response = requests.get(url, headers=headers, params=params)
     with open(file_path, 'wb') as file:
         file.write(response.content)
 
@@ -82,7 +96,7 @@ def main(page_url):
         file_name = f"{sanitized_title}_{idx}.jpg"
         file_path = os.path.join(download_directory, file_name)
 
-        download_image(image['url'], file_path)
+        download_image(image['url'], file_path, format='png', quality='original')
         print(f"Downloaded image {idx}: {file_path}")
 
         caption_file_name = f"{sanitized_title}_{idx}_caption.txt"
