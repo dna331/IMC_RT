@@ -209,7 +209,7 @@ def transform_caption(caption):
 
     # Create a list to store the modified tokens
     modified_tokens = []
-    api_key = "AIzaSyAw_zLLvxIv7sYw8EasMRpQ9uXd6SUxwJE"
+    api_key = "add api key here"
 
     # Loop through the tokens in the caption
     for token in doc:
