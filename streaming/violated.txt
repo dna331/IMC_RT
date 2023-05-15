@@ -1,0 +1,35 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IBM360-65-1.corestore.jpg/440px-IBM360-65-1.corestore.jpg	OS/360 được sử dụng trên hầu hết các máy tính lớn của IBM bắt đầu từ năm 1966, bao gồm cả các máy tính được chương trình Apollo sử dụng.
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/440px-Kernel_Layout.svg.png	Nhân của hệ điều hành kết nối phần mềm ứng dụng với phần cứng của máy tính.
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png	Vòng đặc quyền cho kiến trúc bộ vi xử lý x86 khả dụng ở chế độ bảo vệ . Hệ điều hành xác định tiến trình nào chạy ở chế độ nào.
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jogging_with_our_iPhones....jpg/600px-Jogging_with_our_iPhones....jpg	Hai phụ nữ đang chạy bộ
+https://upload.wikimedia.org/wikipedia/vi/f/f4/Vietnam_Kim_Ph%C3%BAc.jpg	Hình ảnh những sự việc xảy ra trước và sau khi bức hình nổi tiếng của Kim Phúc được chụp.
+https://upload.wikimedia.org/wikipedia/commons/6/6b/Muybridge_runner.jpg	Hình chụp các bước chạy của Eadweard Muybridge
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lenoirmotor.jpg/440px-Lenoirmotor.jpg	Động cơ Lenoir 1860
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Automobiles_Peugeot_1929.JPG/440px-Automobiles_Peugeot_1929.JPG	Giấy tờ của một xe Peugeot cũ
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GNOME_Shell.png/440px-GNOME_Shell.png	Chế độ xem Activities của GNOME Shell.
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/400px-WWW_logo_by_Robert_Cailliau.svg.png	Logo của World Wide Web
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CERN_web_corridor.jpg/440px-CERN_web_corridor.jpg	Hành lang nơi WWW ra đời. CERN , tầng trệt tòa nhà số 1
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cern_datacenter.jpg/440px-Cern_datacenter.jpg	Trung tâm dữ liệu CERN năm 2010 chứa một số máy chủ WWW
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cailliau_Abramatic_Berners-Lee_10_years_WWW_consortium.png/440px-Cailliau_Abramatic_Berners-Lee_10_years_WWW_consortium.png	Robert Cailliau, Jean-François Abramatic và Tim Berners-Lee tại lễ kỷ niệm 10 năm của Hiệp hội mạng toàn cầu.
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Internet_Key_Layers.png/440px-Internet_Key_Layers.png	World Wide Web hoạt động như một giao thức lớp ứng dụng được chạy "trên đỉnh" (theo nghĩa bóng) Internet, giúp làm cho nó hoạt động nhiều hơn. Sự ra đời của trình duyệt web Mosaic đã giúp web trở nên tiện dụng hơn rất nhiều, bao gồm hiển thị hình ảnh và hình ảnh chuyển động ( GIF ).
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/WorldWideWebAroundWikipedia.png/440px-WorldWideWebAroundWikipedia.png	Biểu diễn đồ họa của một phần nhỏ của WWW, thể hiện các siêu liên kết
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scheme_dynamic_page_en.svg/1000px-Scheme_dynamic_page_en.svg.png	Trang web động: ví dụ về scripting tại máy chủ ( PHP và MySQL ).
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Inside_and_Rear_of_Webserver.jpg/440px-Inside_and_Rear_of_Webserver.jpg	Mặt trong và mặt trước của máy chủ web Dell PowerEdge, một máy tính được thiết kế để gắn giá đỡ
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mayflower_Wikimedia_Commons_image_search_engine_screenshot.png/440px-Mayflower_Wikimedia_Commons_image_search_engine_screenshot.png	Kết quả tìm kiếm cụm từ "nguyệt thực" trong công cụ tìm kiếm hình ảnh dựa trên web
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vietnamese_Wikipedia_main_page_2020.png/440px-Vietnamese_Wikipedia_main_page_2020.png	Ảnh chụp màn hình trang chính của Wikipedia tiếng Việt tháng 12 năm 2020
+https://upload.wikimedia.org/wikipedia/commons/c/ce/GNOME_Screenshot_3.32.png	GNOME Screenshot, chạy trên Arch Linux
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Drone_4.jpg/440px-Drone_4.jpg	Một dongle Bluetooth
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Windows_NT_logo.svg/440px-Windows_NT_logo.svg.png	Logo Windows NT
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Unofficial_fan_made_Windows_XP_logo_variant.svg/440px-Unofficial_fan_made_Windows_XP_logo_variant.svg.png	Logo Windows XP
+https://upload.wikimedia.org/wikipedia/vi/thumb/0/01/Windows_7_beta_b_7000.png/440px-Windows_7_beta_b_7000.png	Giao diện màn hình chính của Windows 7
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/440px-Windows_10_Logo.svg.png	Logo Windows 10
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/440px-Windows_11_logo.svg.png	Logo Windows 11
+https://upload.wikimedia.org/wikipedia/vi/thumb/5/59/WindowsCE7.jpg/440px-WindowsCE7.jpg	Phiên bản mới nhất hiện tại của Windows CE , Windows Embedded Compact 7 , hiển thị một ý tưởng giao diện trình chơi phương tiện.
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Firefox2.png/440px-Firefox2.png	Hình ảnh Mozilla Firefox 2.0 đang chạy trên Ubuntu
+https://upload.wikimedia.org/wikipedia/commons/d/d3/Firefox_FAYT.png	Hình chụp thao tác Find as you type . Người dùng gõ vào từ muốn tìm, và tình duyệt sẽ hiển thị chữ tìm được với màu xanh da trời.
+https://upload.wikimedia.org/wikipedia/vi/d/de/Add-on_in_Firefox_1.5.0.4_on_Windows_XP.png	Hộp thoại của Mozilla Firefox 1.5.0.4 yêu cầu người dùng xác nhận thực sự muốn cài đặt công cụ bổ sung này
+https://upload.wikimedia.org/wikipedia/vi/thumb/c/c6/Firefox_1.5.0.4_with_themes_Noia_on_Windows_XP.png/440px-Firefox_1.5.0.4_with_themes_Noia_on_Windows_XP.png	Firefox sử dụng theme Noia eXtreme
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Firefox_2_Tabbed_Browsing_GNU-Linux.png/600px-Firefox_2_Tabbed_Browsing_GNU-Linux.png	Một ví dụ Firefox 3.5 với hai thẻ
+https://upload.wikimedia.org/wikipedia/vi/thumb/1/1f/Virtual_Desktops_in_Windows_10.png/440px-Virtual_Desktops_in_Windows_10.png	"Task View" là tính năng mới trên Windows 10, cho phép sử dụng nhiều không gian làm việc cùng một lúc.
+https://upload.wikimedia.org/wikipedia/vi/0/09/Windows_Hello_in_Enpass.png	Yêu cầu mở khóa Windows Hello trên Surface Pro 4 trong khi sử dụng Enpass ( trình quản lý mật khẩu )
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Screenshot_of_%E2%80%98Bash_on_Ubuntu_on_Windows%E2%80%99.png/440px-Screenshot_of_%E2%80%98Bash_on_Ubuntu_on_Windows%E2%80%99.png	Bash đang chạy trên Windows 10

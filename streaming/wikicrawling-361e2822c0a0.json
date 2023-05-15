@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wikicrawling",
+  "private_key_id": "361e2822c0a023c16a190810cb0fae7f98925412",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOUKKsdyvWwuiG\nZytiDb5EGEZaDry3wvFbrnDiJ7c7O2NskLWdjRLjogsT+AYC+sxJWSzt4lJh5bmp\n0MyRjj1i7zlHb320ERMbeNEXRtzNa8mUpCj+Y3bd/bcFLqtAVAniicE+z0cJDM+b\nCa/ZSdtv7clj07TrAc1lptJUlKsLkkcR4+OD5MsiU3vW0IhEaH8Y5kOecdLV/370\n3ry5sEON/7M8TV7klSUrl1IlzlxW/OsxYm3JBfUjsFngZGK/0iPtetyoBTqU3Gk+\njErqBcWqCqMvlxugXP/434tzkwxmhxCQWcr7ln6g4YEYfQMDjR/ipePnPzKohs3E\nS/ctthwhAgMBAAECggEARwTT0nldQlqqjyVxdhnT/n26reJ3zOvSiGQ2YGsadE2/\nrk3r7pVyxJ/xn0iXzSvG6ZLEWAi5ohBhhlalLI+hiu5dMb1rsHHWOXUvyIrwk9fA\nNqYBpHvZnZXqC+MiOQ0UsAIKXtQcGD3sMuq1OR9m5ZMdaXslQmZG7XBs44efj2YH\nTh3xnCPMWaUyqxlCgdrTeT2KNQCHjn+dKeBbs4NcZiOTHvZfskBvJd+z30xNmsyd\nHV+iyD9YX3x7FbnTDLvBIBppGFDZorHG5+NjKfY9gLRNXGKIs42vT5oiQqMYn2Wm\ng7rdDqOmwiDjnk/OwNGHUmHAvFOSdovnPutUf/KhtwKBgQDnhPGu6geQIT0iaCgt\n9av9j0CYyYB4xUZT9Q6f5UHStz8y984LgoeIsARuCsnD7G7y9PrnTfywTmirBOdW\nbVL3QSs5vAM+OdXRw1o4A6EbVHu5GCzjwCEGhxzutXNmodVPGTAMHTJYotOh8bpH\nw61jBmDES4DOjDqJvHMBqlvo2wKBgQDkIW3JKM6xsPLlNfE6GHqYLPydUO52kJ9A\n5RgoogkG2cg4YnvhPuhbkHYH5u4AyUK04aRgPuFXI5TOrgqrvCzTSc/hh9joSs4b\naJT5hy/ASX9vcVGdhcbd8JbUFp164Sg6OWA3oD+apPBATwjk2svTlGXn5UYVmvaW\nNpUZrN9RswKBgDv90Pp4HhmU41iFENRH8pczhZORsz6YL88VkwKPz2ygmznDyJpm\n6mPa6GrzVLD2FRHTtSg2pyGwT6LxFFjq3zK+qkq9k0GOjv9Z1YjqN9bzH1QpFYi2\nglhErpSUZCDWEoX6it64uhEJsDkogBKUe9tLDcwPnILpB0olkM9/q209AoGBAL6x\natHhuJUz8nXC13fWinO19xuRUSPu1BAs8DrW53DAjusC98ZbDWOsp90HHh+uHIKS\nsxJ4vWhXp8X0GZtgWp/rbUd6hMf3771deFn0tOepCEshkDV6Y7eVqp5yoQTcPQIe\nf90/qKseAG3hIvAaLJMZ0u0665CXzlPWIGAr7yidAoGAMe4KZSVwfPPm1iF96C5A\nkeHJ0vciTu/zcbj9PMQCaXB/eaj4txGuxMiPpZE6rovwold1mVnkAN79+GShmy2V\nRqQKK93I/Nxi+UmtjU7PRZPTwC43Z5yX46beKDadMEr9eFZiX2opnNAdgT8K+bq1\nzwdU9spoPj76kt5vvRMQqO4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quanha72@wikicrawling.iam.gserviceaccount.com",
+  "client_id": "115617137519471469809",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quanha72%40wikicrawling.iam.gserviceaccount.com"
+}
